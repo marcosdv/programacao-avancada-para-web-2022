@@ -2,7 +2,7 @@
 
 ![Badge](https://img.shields.io/badge/Marcos%20Dias%20Vendramini-ASP.NET%20C%23-red)
 
-### Repositório com o conteúdo ministrado para o 6º período do curso de Sistemas para Internet da UniAlfa de Umuarama.
+### Repositório com o conteúdo ministrado para o 6º período do curso de Sistemas para Internet da UniAlfa de Umuarama - 2022.
 
 ### Conteúdo
 
