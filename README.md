@@ -7,7 +7,8 @@
 ### Conteúdo
 
 - [x] Aula 01 - Introdução ao C# .NET - 26/07/2022
-- [ ] Aula 02 - Criando a primeira API Rest - 02/08/2022
+- [x] Aula 02 - Criando a primeira API Rest - 02/08/2022
+- [ ] Aula 03 - Agenda Telefonica API - ADO.NET, Dapper e SQL Server - 09/08/2022
 
 ### Tecnologias
 
