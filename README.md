@@ -8,8 +8,9 @@
 
 - [x] Aula 01 - Introdução ao C# .NET - 26/07/2022
 - [x] Aula 02 - Criando a primeira API Rest - 02/08/2022
-- [x] Aula 03 - Agenda Telefonica API - CRUD da TbOperadora - ADO.NET - 09/08/2022
-- [ ] Aula 04 - Agenda Telefonica API - ADO.NET, Dapper e SQL Server - 16/08/2022
+- [x] Aula 03 - Agenda Telefonica API - CRUD da TbOperadora - ADO.NET com SQL Server - 09/08/2022
+- [x] Aula 04 - Agenda Telefonica API - CRUD da TbPessoa - ADO.NET com Dapper e SQL Server - 16/08/2022
+- [ ] Aula 05 - Agenda Telefonica API - ADO.NET, Dapper e SQL Server - 23/08/2022
 
 ### Tecnologias
 
