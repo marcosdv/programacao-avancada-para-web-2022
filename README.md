@@ -14,8 +14,12 @@
 
 ### Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram usadas na construção dos projetos:
 
 - [ASP.NET](https://dotnet.microsoft.com/apps/aspnet)
 - [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [Visual Studio](https://visualstudio.microsoft.com/pt-br/)
+- [ADO.NET](https://docs.microsoft.com/pt-br/dotnet/framework/data/adonet/)
+- [SQL Server](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)
+- [Dapper](https://github.com/DapperLib/Dapper)
+- [Entity Framework](https://docs.microsoft.com/pt-br/ef/)
