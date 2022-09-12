@@ -2,6 +2,8 @@
 
 ![Badge](https://img.shields.io/badge/Marcos%20Dias%20Vendramini-ASP.NET%20C%23-red)
 
+## Instalando o Entity Framework
+
 ### Instalação do dotnet-ef command line tools
 dotnet tool install --global dotnet-ef
 
