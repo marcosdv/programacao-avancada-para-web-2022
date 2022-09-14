@@ -14,7 +14,7 @@
 - [x] Aula 06 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server - 29/08/2022
 - [x] Aula 07 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server - 30/08/2022
 - [x] Aula 08 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server - 06/09/2022
-- [ ] Aula 09 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server - 13/09/2022
+- [x] Aula 09 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server - 13/09/2022
 
 ### Tecnologias
 
