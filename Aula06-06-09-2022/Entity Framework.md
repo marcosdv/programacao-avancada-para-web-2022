@@ -14,7 +14,7 @@ dotnet ef migrations add CriacaoInicial -s ..\MeusLivros.Api\MeusLivros.Api.cspr
 dotnet ef database update -s ..\MeusLivros.Api\MeusLivros.Api.csproj
 
 ### Comando para gerar o script do banco de dados, para casos de não houver acesso direto ao banco (ex: banco de produção)
-dotnet ef migrations script -o ./script.sql
+dotnet ef migrations script -o ./script.sql -s ..\MeusLivros.Api\MeusLivros.Api.csproj
 
 ### Tecnologias
 
