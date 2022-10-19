@@ -17,7 +17,8 @@
 - [x] Aula 09 - Meus Livros - CRUD com Entity Framework, CQRS e SQL Server - 13/09/2022
 - [x] Aula 10 - Meus Livros - Adicionando Testes Unitários - (Queries, Mock Repositories) - 27/09/2022
 - [x] Aula 11 - Meus Livros - Adicionando Testes Unitários - (Commands, Handlers, Validations) - 11/10/2022
-- [ ] Aula 12 - Meus Livros - Autenticação e Autorização utilizando Bearer e JWT - 18/10/2022
+- [x] Aula 12 - Meus Livros - Autenticação e Autorização utilizando Bearer e JWT - 18/10/2022
+- [ ] Aula 13 - Meus Livros - Criando WebSite Razor - 01/11/2022
 
 ### Tecnologias
 
