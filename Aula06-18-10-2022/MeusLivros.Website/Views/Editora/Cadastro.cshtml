@@ -1,0 +1,25 @@
+﻿@model EditoraViewModel
+
+@{
+}
+<h1>Cadastro de Editora</h1>
+
+<form asp-controller="Editora" asp-action="Cadastro" method="post"
+	class="form-horizontal" role="form">
+	<hr />
+	<input type="hidden" asp-for="Id" />
+
+	<div asp-validation-summary="All" class="text-danger"></div>
+
+	<div class="form-group">
+		<label asp-for="Nome" class="col-md-2 control-label"></label>
+		<div class="col-md-12">
+			<input asp-for="Nome" class="form-control" />
+			<span asp-validation-for="Nome" class="text-danger"></span>
+		</div>
+	</div>
+
+	<div class="form-group formPullRightButton">
+		<input type="submit" value="Salvar" class="btn btn-success" />
+	</div>
+</form>

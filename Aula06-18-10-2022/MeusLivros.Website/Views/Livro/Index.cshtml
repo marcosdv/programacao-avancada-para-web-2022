@@ -1,0 +1,40 @@
+﻿@using MeusLivros.Domain.Entities
+
+@model IEnumerable<Livro>
+
+@{
+}
+
+<h1>Listagem de Livros</h1>
+
+<p>
+	@Html.ActionLink("Novo", "Cadastro", new {}, new { @class = "btn btn-primary" })
+</p>
+
+<table class="table table-hover table-striped">
+	<tr>
+		<th>@Html.DisplayNameFor(model => model.Id)</th>
+		<th>@Html.DisplayNameFor(model => model.Nome)</th>
+		<th>@Html.DisplayNameFor(model => model.Editora)</th>
+		<th>Ações</th>
+	</tr>
+
+	@foreach (var item in Model) {
+		<tr>
+			<td>@Html.DisplayFor(modelItem => item.Id)</td>
+			<td>@Html.DisplayFor(modelItem => item.Nome)</td>
+			<td>@Html.DisplayFor(modelItem => item.Editora.Nome)</td>
+			<td>
+				@Html.ActionLink("Editar", "Cadastro",
+					new { id = item.Id }, new { @class = "btn btn-info" })
+
+				@Html.ActionLink("Excluir", "Excluir",
+					new { id = item.Id },
+					new { @class = "btn btn-danger",
+						  onClick = "return confirm('Deseja realmente excluir este livro?');" }
+				)
+			</td>
+		</tr>
+	}
+
+</table>
