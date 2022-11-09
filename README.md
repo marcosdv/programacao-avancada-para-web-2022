@@ -19,6 +19,7 @@
 - [x] Aula 11 - Meus Livros - Adicionando Testes Unitários - (Commands, Handlers, Validations) - 11/10/2022
 - [x] Aula 12 - Meus Livros - Autenticação e Autorização utilizando Bearer e JWT - 18/10/2022
 - [x] Aula 13 - Meus Livros - Criando WebSite Razor - CRUD de Editoras e Livros - 01/11/2022
+- [x] Aula 14 - Criptografia App - Advanced Encryption Standard (AES) e MD5 Hash - 08/11/2022
 
 ### Tecnologias
 
